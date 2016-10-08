@@ -5,3 +5,5 @@ Been writing .NET, mostly C# for the last 100 years, or 15 when .NET came out.  
 
 README.md
 
+re-editing this filel.  It always stats on line 1.  Very non-intuitive.  Instructions from https://guides.github.com/activities/hello-world/.
+
